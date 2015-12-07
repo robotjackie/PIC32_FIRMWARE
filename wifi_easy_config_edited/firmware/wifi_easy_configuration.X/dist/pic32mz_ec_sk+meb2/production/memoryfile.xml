@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/pic32mz_ec_sk+meb2/production/wifi_easy_configuration.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>2098304</length>                 
+      <used>387436</used>                     
+      <free>1710868</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>524288</length>                 
+      <used>42604</used>                     
+      <free>481684</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
